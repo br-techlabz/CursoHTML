@@ -9,3 +9,17 @@ h3{
 /* Comentario no css */
 /* Um outro comentário */
 
+/* classes */
+.paragrafo{
+    background-color: #000000;
+    color: aqua;
+    padding: 20px;
+}
+
+
+/* ids */
+#exclusive-title{
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+}
